@@ -1,1 +1,1 @@
-# Ecommerce_Inteligencia-de-Merdado
+Analise Exploratória - Ecommerce
